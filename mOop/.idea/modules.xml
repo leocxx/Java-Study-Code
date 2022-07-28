@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../StudentManager/StudentManager.iml" filepath="$PROJECT_DIR$/../StudentManager/StudentManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mArrayList/mArrayList.iml" filepath="$PROJECT_DIR$/../mArrayList/mArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mOop.iml" filepath="$PROJECT_DIR$/mOop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mString/mString.iml" filepath="$PROJECT_DIR$/../mString/mString.iml" />
+    </modules>
+  </component>
+</project>

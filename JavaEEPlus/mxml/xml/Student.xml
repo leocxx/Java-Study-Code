@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<students>
+    <student id="1">
+        <name>张安</name>
+        <age>18</age>
+        <!--<info>学生信息</info>-->
+    </student>
+
+    <student id="2">
+        <name>张安</name>
+        <age>18</age>
+        <!--<info>学生信息</info>
+        <message> <![CDATA[fdssfsfsfsfsd]]]></message>-->
+    </student>
+    <aaa></aaa>
+</students>

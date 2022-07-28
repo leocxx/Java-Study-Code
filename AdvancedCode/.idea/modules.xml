@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/test_Innerclass/test_Innerclass.iml" filepath="$PROJECT_DIR$/test_Innerclass/test_Innerclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_abstract/test_abstract.iml" filepath="$PROJECT_DIR$/test_abstract/test_abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_extends/test_extends.iml" filepath="$PROJECT_DIR$/test_extends/test_extends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_interface/test_interface.iml" filepath="$PROJECT_DIR$/test_interface/test_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_mLambda/test_mLambda.iml" filepath="$PROJECT_DIR$/test_mLambda/test_mLambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_polymorpic/test_polymorpic.iml" filepath="$PROJECT_DIR$/test_polymorpic/test_polymorpic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxxxxchen-edu-info-manager/xxxxxchen-edu-info-manager.iml" filepath="$PROJECT_DIR$/xxxxxchen-edu-info-manager/xxxxxchen-edu-info-manager.iml" />
+    </modules>
+  </component>
+</project>

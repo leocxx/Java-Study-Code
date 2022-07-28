@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mclassloader/mclassloader.iml" filepath="$PROJECT_DIR$/mclassloader/mclassloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mxml/mxml.iml" filepath="$PROJECT_DIR$/mxml/mxml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myannotation/myannotation.iml" filepath="$PROJECT_DIR$/myannotation/myannotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myenum/myenum.iml" filepath="$PROJECT_DIR$/myenum/myenum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myjunit/myjunit.iml" filepath="$PROJECT_DIR$/myjunit/myjunit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylog4j/mylog4j.iml" filepath="$PROJECT_DIR$/mylog4j/mylog4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myreflect/myreflect.iml" filepath="$PROJECT_DIR$/myreflect/myreflect.iml" />
+    </modules>
+  </component>
+</project>

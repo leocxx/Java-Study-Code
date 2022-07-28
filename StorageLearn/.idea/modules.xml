@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mCollection/mCollection.iml" filepath="$PROJECT_DIR$/mCollection/mCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mGenericity/mGenericity.iml" filepath="$PROJECT_DIR$/mGenericity/mGenericity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mSet/mSet.iml" filepath="$PROJECT_DIR$/mSet/mSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mStream/mStream.iml" filepath="$PROJECT_DIR$/mStream/mStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myMap/myMap.iml" filepath="$PROJECT_DIR$/myMap/myMap.iml" />
+    </modules>
+  </component>
+</project>

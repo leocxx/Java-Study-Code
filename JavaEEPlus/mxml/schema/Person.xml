@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<persons
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns="http://itcasy.cn/javase"
+   xsi:schemaLocation="http://itcasy.cn/javase personsch.xsd"
+>
+    <person id="1">
+        <name>张丹</name>
+        <age>18</age>
+    </person>
+</persons>

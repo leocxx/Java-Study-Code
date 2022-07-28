@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/API_projects.iml" filepath="$PROJECT_DIR$/API_projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mArrarPlus/mArrarPlus.iml" filepath="$PROJECT_DIR$/mArrarPlus/mArrarPlus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mBigDecimal/mBigDecimal.iml" filepath="$PROJECT_DIR$/mBigDecimal/mBigDecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mDate/mDate.iml" filepath="$PROJECT_DIR$/mDate/mDate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mInteger/mInteger.iml" filepath="$PROJECT_DIR$/mInteger/mInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mSystem/mSystem.iml" filepath="$PROJECT_DIR$/mSystem/mSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myMath/myMath.iml" filepath="$PROJECT_DIR$/myMath/myMath.iml" />
+    </modules>
+  </component>
+</project>

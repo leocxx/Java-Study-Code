@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mcountdownlatch/mcountdownlatch.iml" filepath="$PROJECT_DIR$/mcountdownlatch/mcountdownlatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mhashtable/mhashtable.iml" filepath="$PROJECT_DIR$/mhashtable/mhashtable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msemaphore/msemaphore.iml" filepath="$PROJECT_DIR$/msemaphore/msemaphore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mthreadatom/mthreadatom.iml" filepath="$PROJECT_DIR$/mthreadatom/mthreadatom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multithread/multithread.iml" filepath="$PROJECT_DIR$/multithread/multithread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvolatile/mvolatile.iml" filepath="$PROJECT_DIR$/mvolatile/mvolatile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadpool/threadpool.iml" filepath="$PROJECT_DIR$/threadpool/threadpool.iml" />
+    </modules>
+  </component>
+</project>

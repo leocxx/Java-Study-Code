@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+本地引入
+<!DOCTYPE persons SYSTEM 'Persondtd.dtd'>
+-->
+<!--
+在xml文件内部引入
+<!DOCTYPE persons [
+        <!ELEMENT persons (person)>
+        <!ELEMENT person (name,age)>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT age (#PCDATA)>
+        ]>-->
+<!--
+<!DOCTYPE persons PUBLIC "dtd文件的名字" "dtd文件档的URL">
+-->
+<persons>
+    <person>
+        <name>张丹</name>
+        <age>18</age>
+    </person>
+</persons>
